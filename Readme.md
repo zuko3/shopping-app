@@ -4,6 +4,8 @@
 - Vite
 - Tanstack Router
 - js
+- Tanstack Query
+- Redux Tooklit
 
 ```
 npm create vite@latest my-shop-app -- --template react
