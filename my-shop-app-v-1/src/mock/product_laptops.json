@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "id": "21", "name": "Dell XPS 13", "price": "1200" },
+    { "id": "22", "name": "MacBook Air M2", "price": "1400" },
+    { "id": "23", "name": "HP Spectre x360", "price": "1100" },
+    { "id": "24", "name": "Lenovo ThinkPad X1", "price": "1300" },
+    { "id": "25", "name": "Asus ROG Zephyrus", "price": "1500" },
+    { "id": "26", "name": "Acer Predator Helios", "price": "1250" },
+    { "id": "27", "name": "MSI Stealth 15", "price": "1350" },
+    { "id": "28", "name": "Samsung Galaxy Book3", "price": "1000" },
+    { "id": "29", "name": "LG Gram 16", "price": "1450" },
+    { "id": "30", "name": "Microsoft Surface Laptop 5", "price": "1600" }
+  ]
+}

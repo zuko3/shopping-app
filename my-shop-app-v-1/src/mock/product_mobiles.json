@@ -1,0 +1,24 @@
+{
+  "data": [
+    { "id": "1", "name": "Samsung Galaxy S24", "price": "900" },
+    { "id": "2", "name": "Samsung Galaxy A55", "price": "450" },
+    { "id": "3", "name": "iPhone 15", "price": "999" },
+    { "id": "4", "name": "iPhone 15 Pro", "price": "1299" },
+    { "id": "5", "name": "Google Pixel 8", "price": "699" },
+    { "id": "6", "name": "Google Pixel 8 Pro", "price": "999" },
+    { "id": "7", "name": "OnePlus 12", "price": "799" },
+    { "id": "8", "name": "OnePlus Nord CE 4", "price": "350" },
+    { "id": "9", "name": "Xiaomi Redmi Note 13", "price": "299" },
+    { "id": "10", "name": "Xiaomi 14", "price": "850" },
+    { "id": "11", "name": "Oppo Reno 11", "price": "450" },
+    { "id": "12", "name": "Oppo Find X7", "price": "950" },
+    { "id": "13", "name": "Vivo V30", "price": "400" },
+    { "id": "14", "name": "Vivo X100", "price": "899" },
+    { "id": "15", "name": "Realme GT 6", "price": "500" },
+    { "id": "16", "name": "Realme Narzo 70", "price": "250" },
+    { "id": "17", "name": "Motorola Edge 50", "price": "550" },
+    { "id": "18", "name": "Motorola G84", "price": "280" },
+    { "id": "19", "name": "Nokia G42", "price": "250" },
+    { "id": "20", "name": "Lava Blaze 5G", "price": "180" }
+  ]
+}
